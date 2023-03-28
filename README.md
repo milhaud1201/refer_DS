@@ -2,17 +2,25 @@
 
 ### book
 
-Deep Learning with PyTorch  
-https://github.com/deep-learning-with-pytorch/dlwpt-code
+* Deep Learning with PyTorch  
+  * https://github.com/deep-learning-with-pytorch/dlwpt-code
 
 ### coursera
 
-https://www.coursera.org/learn/applied-calculus-with-python
+* Applied Calculus With Python  
+  * https://www.coursera.org/learn/applied-calculus-with-python
+
+* DeepLearning.AI TensorFlow Developer
+  * Workbook
+  * Lecture Notes
+  * Exercise
+  * Quiz  
+  * https://www.coursera.org/learn/introduction-tensorflow
 
 ### boostcourse
 
-Deep Learning Zero To All  
-https://www.boostcourse.org/ai214/joinLectures/25076
+* Deep Learning Zero To All  
+  *https://www.boostcourse.org/ai214/joinLectures/25076
 
 ---
 
