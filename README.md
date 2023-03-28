@@ -13,3 +13,15 @@ https://www.coursera.org/learn/applied-calculus-with-python
 
 Deep Learning Zero To All  
 https://www.boostcourse.org/ai214/joinLectures/25076
+
+---
+
+# Data
+
+* Benchmark
+  * [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
+
+---
+
+### Responsible AI practices (윤리적인 사례)
+https://ai.google/responsibilities/responsible-ai-practices/
