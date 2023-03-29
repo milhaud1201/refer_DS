@@ -16,11 +16,12 @@
   * Exercise
   * Quiz  
   * https://www.coursera.org/learn/introduction-tensorflow
+  * https://community.deeplearning.ai/c/tf1/39
 
 ### boostcourse
 
 * Deep Learning Zero To All  
-  *https://www.boostcourse.org/ai214/joinLectures/25076
+  * https://www.boostcourse.org/ai214/joinLectures/25076
 
 ---
 
