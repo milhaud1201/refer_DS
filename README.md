@@ -29,6 +29,8 @@
 
 * Benchmark
   * [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
+* Training AI with CGI
+  * [Photoreal CGI - example](https://laurencemoroney.com/datasets.html)
 
 # Computer Vision
 
