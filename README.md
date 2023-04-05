@@ -29,6 +29,7 @@
 
 * Benchmark
   * [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
+  * [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 * Training AI with CGI
   * [Photoreal CGI - example](https://laurencemoroney.com/datasets.html)
 * UCI Machine Learning Repository
