@@ -31,6 +31,8 @@
   * [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
 * Training AI with CGI
   * [Photoreal CGI - example](https://laurencemoroney.com/datasets.html)
+* UCI Machine Learning Repository
+  * https://archive.ics.uci.edu/ml/datasets.php
 
 # Computer Vision
 
