@@ -27,3 +27,5 @@ you can use a pre-trained model to achieve good results even with a small traini
 4. evaluate the results  
 
 Doing this will allow you to save time building your application because you will essentially skip weeks of training time of very deep networks. You will just use the features it has learned and tweak it for your dataset. 
+
+For more on how to freeze/lock layers, you can explore the [documentation here.](https://www.tensorflow.org/tutorials/images/transfer_learning?hl=ko)
