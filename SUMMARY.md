@@ -3,7 +3,7 @@
 
 ### Feature scaling의 유용한 단계 (데이터 정규화, 표준화)
  * Feature scaling $x_1=\frac{x_1}{max}$
-  * 각 값을 해당 값의 최대값으로 나눈다.
+   * 각 값을 해당 값의 최대값으로 나눈다.
  * Mean normalization $x_1=\frac{x_1-\mu_1}{max-min}$
  * Z-score normalization $x_1=\frac{x_1-\mu_1}{σ_1}$
 
