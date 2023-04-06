@@ -17,7 +17,7 @@ objective: $min_{\vec w, b}J(\vec w, b)$
 ### 수렴을 위한 Gradient descent 확인
 100, 200의 interations 후에 업데이트 된 비용 함수 $J(\vec w, b)$ 의 learning curve를 확인합니다. 경사하강법이 제대로 작동한다면, 비용 함수 J는 감소하거나 수렴합니다.
 
-### Learning rate란? 
+### Learning rate $\alpha$란? 
 
 
 ### Overfitting이란?
