@@ -1,11 +1,11 @@
 ### Vectorization의 잠재점 이점은?
 코드 실행 속도가 빨라지고, 코드를 더 짧게 만들어주거나, 병렬 컴퓨팅 하드웨어에서 코드를 보다 쉽게 샐행할 수 있습니다.
 
-### Feature scaling의 유용한 단계 (데이터 정규화)
-* 각 값을 해당 값의 최대값으로 나눈다.
-  * Feature scaling $x_1=\frac{x_1}{max}$
-  * Mean normalization $x_1=\frac{x_1-\mu_1}{max-min}$
-  * Z-score normalization $x_1=\frac{x_1-\mu_1}{σ_1}$
+### Feature scaling의 유용한 단계 (데이터 정규화, 표준화)
+ * Feature scaling $x_1=\frac{x_1}{max}$
+  * 각 값을 해당 값의 최대값으로 나눈다.
+ * Mean normalization $x_1=\frac{x_1-\mu_1}{max-min}$
+ * Z-score normalization $x_1=\frac{x_1-\mu_1}{σ_1}$
 
 ### Overfitting이란?
 
