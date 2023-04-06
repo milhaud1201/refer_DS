@@ -9,9 +9,14 @@
 
 ### Gradient descent
 $w_j=w_j-\alpha\frac{\partial}{\partial w_j}j(\vec w,b)$  
-$b=b-\alpha\frac{\partial}{\partial b}j(\vec w,b)$
+$b=b-\alpha\frac{\partial}{\partial b}j(\vec w,b)$  
+경사하강법은 매개변수 w를 찾는 것이고 b는 비용함수 J를 최소화합니다.  
+objective: $min_{\vec w, b}J(\vec w, b)$
 
 ### 수렴을 위한 Gradient descent 확인
+100, 200의 interations 후에 업데이트 된 비용 함수 $J(\vec w, b)$ 의 learning curve를 확인합니다. 경사하강법이 제대로 작동한다면, 비용 함수 J는 감소하거나 수렴합니다.
+
+### Learning rate란? 
 
 
 ### Overfitting이란?
