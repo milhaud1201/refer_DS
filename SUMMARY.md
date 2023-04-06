@@ -46,6 +46,13 @@ The learning rate controls the size of the update to the parameters.
 ![image](https://user-images.githubusercontent.com/108461149/230444659-90ebe8a1-9e36-4f88-8509-825b0d8aedec.png)  
 이 솔루션도 이전 그래프만큼 빠르지는 않지만 결국 수렴됩니다.
 
+## Feature engineering이란?
+**데이터를 직관적으로 살펴보고 기존의 피처들을 변형하거나 결합하여 새로운 피처들을 디자인하는 것입니다.**  
+Using `intuition` to design `new features`, by transforming or combining original features.
+
+## 다항식 회귀 Polynomial regression란?
+다항식 회귀는 곡선, 비선형 함수를 데이터에 적용합니다. 다항식 회귀를 $f_{\vec w, b}(x)=w_1x+w_2x^2+w_3x^3+b$로 표현한다면 각 $x, x^2, x^3$의 범위가 매우 다양하기 때문에 `feature scaling`를 적용하여 비교 가능한 범위의 값으로 변환하는 것이 중요합니다.
+
 ## Overfitting이란?
 
 과적합은 너무 적은 예제에 노출된 모델이 새로운 데이터에 일반화되지 않는 패턴을 학습할 때, **즉 모델이 예측을 위해 관련 없는 기능을 사용하기 시작할 때 발생합니다.**  
