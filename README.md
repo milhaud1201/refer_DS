@@ -1,6 +1,7 @@
 # refer_DS
 
-위의 강의들을 들으며 요약한 부분과 면접 준비를 위한 질의질답은 [이곳에](https://github.com/milhaud1201/refer_DS/blob/main/SUMMARY.md) 정리하였습니다.
+위의 강의들을 들으며 요약한 부분과 면접 준비를 위한 질의질답은 [이곳에](https://github.com/milhaud1201/refer_DS/blob/main/SUMMARY.md) 정리하였습니다. 영어 답변이 이해에 더 도움을 드릴 수 있을 것 같아 함께 덧붙여놨습니다.
+
 ### book
 
 * Deep Learning with PyTorch  
