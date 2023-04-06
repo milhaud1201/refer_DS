@@ -32,7 +32,19 @@ $$\begin{align}
 100, 200의 interations 후에 업데이트 된 비용 함수 $J(\vec w, b)$ 의 learning curve를 확인합니다. 경사하강법이 제대로 작동한다면, 비용 함수 J는 감소하거나 수렴합니다.
 
 ## Learning rate $\alpha$란? 
+Learning rate는 파라미터에 대한 **업데이트 크기를 제어**합니다.  
+The learning rate controls the size of the update to the parameters.
 
+### $\alpha$ = 9.9e-7 너무 높을 때
+학습률이 너무 높으면 해가 수렴하지 않아 Cost가 계속 증가합니다.
+![image](https://user-images.githubusercontent.com/108461149/230441141-5376f586-b16e-4a30-a4e0-8f83417192f7.png)
+반복할 때마다 최적의 값을 초과하고 결과적으로 비용이 최소값에 도달하지 않고 증가 overshooting 합니다.
+### $\alpha$ = 9e-7 적당할 때
+![image](https://user-images.githubusercontent.com/108461149/230444412-4bc2dd84-6c00-4095-b5fd-5e77927529ce.png)
+최소값에서 머물고 있지만 각 반복이 증가하는 것이 아니라 감소합니다. 반복하며 알파값을 수렴합니다.
+### $\alpha$ = 1e-7 너무 작을 때
+![image](https://user-images.githubusercontent.com/108461149/230444659-90ebe8a1-9e36-4f88-8509-825b0d8aedec.png)
+이 솔루션도 이전 그래프만큼 빠르지는 않지만 결국 수렴됩니다.
 
 ## Overfitting이란?
 
