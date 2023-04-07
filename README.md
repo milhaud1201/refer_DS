@@ -50,6 +50,10 @@
 * Image Filtering  
   * https://lodev.org/cgtutor/filtering.html
 
+# Natural Language Processing
+
+* [Tensorflow Embedding Projector](https://projector.tensorflow.org/)
+
 ---
 
 ### Responsible AI practices (윤리적인 사례)
