@@ -29,6 +29,8 @@
 
 # Data
 
+### Image
+
 * Benchmark
   * [FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
   * [Sign Language MNIST](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
@@ -36,6 +38,12 @@
   * [Photoreal CGI - example](https://laurencemoroney.com/datasets.html)
 * UCI Machine Learning Repository
   * https://archive.ics.uci.edu/ml/datasets.php
+
+### Text
+
+* [IMDB reviews dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+
+---
 
 # Computer Vision
 
