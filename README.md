@@ -53,6 +53,7 @@
 # Natural Language Processing
 
 * [Tensorflow Embedding Projector](https://projector.tensorflow.org/)
+  * TensorBoard에서 임베딩 프로젝터를 사용하여 데이터 시각화 (렌더링) 하는 방법은 [여기에서](tensorflow.org/tensorboard/tensorboard_projector_plugin?hl=ko) 참고하세요
 
 ---
 
