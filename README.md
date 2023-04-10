@@ -1,6 +1,22 @@
 # refer_DS
 
 위의 강의들을 들으며 요약한 부분과 면접 준비를 위한 질의질답은 [이곳에](https://github.com/milhaud1201/refer_DS/blob/main/SUMMARY.md) 정리하였습니다. 영어 답변이 이해에 더 도움을 드릴 수 있을 것 같아 함께 덧붙여놨습니다.
+<details>
+<summary>Details</summary>
+ 
+ #### Vectorization의 잠재점 이점은?
+ #### Feature scaling의 유용한 단계 (데이터 정규화, 표준화)
+ #### Gradient Descent With Multiple Variables란?
+ #### 수렴을 위한 Gradient descent 확인 
+ #### Learning rate$\alpha$란?
+ #### Feature engineering이란?
+ #### 다항식 회귀 Polynomial regression란?
+ #### Overfitting이란?
+ #### Dropout이란?
+ #### Transfer Learning이란?
+ #### Sparse categorical crossentropy 와 categorical corssentropy 비교
+
+</details>
 
 ### book
 
