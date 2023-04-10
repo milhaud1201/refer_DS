@@ -8,7 +8,7 @@
  #### Feature scaling의 유용한 단계 (데이터 정규화, 표준화)
  #### Gradient Descent With Multiple Variables란?
  #### 수렴을 위한 Gradient descent 확인 
- #### Learning rate$\alpha$란?
+ #### Learning rate $\alpha$ 란?
  #### Feature engineering이란?
  #### 다항식 회귀 Polynomial regression란?
  #### Overfitting이란?
