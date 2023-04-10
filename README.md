@@ -58,6 +58,16 @@
 ### Text
 
 * [IMDB reviews dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
+* [Sentiment140 dataset with 1.6 million tweets](https://www.kaggle.com/datasets/kazanova/sentiment140/code)
+
+---
+
+# Theories
+
+### CV
+
+### NLP
+* [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 
 ---
 
