@@ -20,21 +20,26 @@
 
 ### book
 
-* Deep Learning with PyTorch  
+* Deep Learning with PyTorch    
   * https://github.com/deep-learning-with-pytorch/dlwpt-code
 
 ### coursera
 
-* Applied Calculus With Python  
-  * https://www.coursera.org/learn/applied-calculus-with-python
+* Mathematics for ML and DS   
+  * C1 - Linear Algebra for Machine Learning and Data Science
+  * C2 - Calculus for Machine Learning and Data Science
+  * C3 - Probability & Statistics for Machine Learning & Data Science  
+  * https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
 
-* DeepLearning.AI TensorFlow Developer
+* DeepLearning.AI TensorFlow Developer  
   * Workbook
   * Lecture Notes
   * Exercise
   * Quiz  
   * https://www.coursera.org/learn/introduction-tensorflow
   * https://community.deeplearning.ai/c/tf1/39
+  
+* Stanford University Machine Learning
 
 ### boostcourse
 
